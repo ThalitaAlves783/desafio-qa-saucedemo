@@ -1,6 +1,13 @@
 # Desafio Técnico Analista de QA SauceDemo
 
-Projeto de automação de testes E2E com Cypress para a aplicação SauceDemo, também conhecida como Swag Labs.
+Projeto de automação de testes E2E desenvolvido para o desafio técnico de Analista de QA.
+
+A solução foi construída com base em planejamento orientado pelo CTFL, priorização por risco, implementação assistida por IA e auditoria adversarial da suíte de testes.
+
+![Cypress](https://img.shields.io/badge/Cypress-13.x-17202C?logo=cypress)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
+![Testes E2E](https://img.shields.io/badge/Testes-E2E-2EA44F)
+![Status](https://img.shields.io/badge/Status-Concluído-2EA44F)
 
 ## Objetivo
 
