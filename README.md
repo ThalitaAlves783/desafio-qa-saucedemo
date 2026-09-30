@@ -9,9 +9,6 @@ A solução foi construída com base em planejamento orientado pelo CTFL, priori
 ![Testes E2E](https://img.shields.io/badge/Testes-E2E-2EA44F)
 ![Status](https://img.shields.io/badge/Status-Concluído-2EA44F)
 
-## Objetivo
-
-Cobrir os cenários obrigatórios do desafio técnico com uma suíte simples, rastreável e fácil de manter. A estratégia foi organizada com apoio de conceitos CTFL, principalmente teste baseado em risco, particionamento de equivalência, rastreabilidade e teste de transição de estados.
 
 ## Aplicação testada
 
